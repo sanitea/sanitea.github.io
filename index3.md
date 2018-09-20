@@ -10,7 +10,7 @@ I'm a PhD canidate at the University of Sheffield
 * Effects of social policy 
 
 
-
+## Other 
 
 * [Menu](https://www.google.com)
 * [Projects](https://sanitea.github.io/projects)
