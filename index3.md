@@ -4,10 +4,10 @@
 
 I'm a PhD canidate at the University of Sheffield 
 
-##Research Interests 
-*Algorthmic Bias 
-*Data Objectivity 
-*Effects of social policy 
+## Research Interests 
+* Algorthmic Bias 
+* Data Objectivity 
+* Effects of social policy 
 
 
 
