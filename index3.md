@@ -4,7 +4,7 @@
 
 [Menu](https://www.google.com)
 
-[Projects](https://www.google.com)
+[Projects](https://sanitea.github.io/projects)
 
 [Background](https://www.google.com)
 
